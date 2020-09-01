@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/guns/guns.iml" filepath="$PROJECT_DIR$/guns/guns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guns-generator/guns-generator.iml" filepath="$PROJECT_DIR$/guns-generator/guns-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/guns5.1.iml" filepath="$PROJECT_DIR$/.idea/guns5.1.iml" />
+    </modules>
+  </component>
+</project>
